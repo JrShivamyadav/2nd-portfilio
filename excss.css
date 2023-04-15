@@ -1,0 +1,103 @@
+
+    .MENU1 {
+        height: 20%;
+        width: 100%;
+        background: navy;
+        font-size: 40;
+        font-family:broadway;
+        color: white;
+    }
+    h1{
+        font-weight:bold;
+        font-size:20;
+        font-family:broadway
+    }
+    #a{
+        height: 100%;
+        width: 15%;
+        background:darkblue;
+        float: left;     
+    }
+    #a a{
+        text-decoration: none;
+        color:white;
+    }
+    #b{
+       height: 100%;
+        width: 15%;
+        background:darkblue;
+        float: left;
+    }
+    #b a
+    {
+        text-decoration:none ;
+        color:white;
+    }
+    #c{
+        height: 100%;
+        width: 20%;
+        background:darkblue;
+        float: left;
+    }
+    #c a{
+        text-decoration:none ;
+        color:white;
+    
+
+    }
+    #d{
+        color:skyblue;
+        height: 100%;
+        width: 15%;
+        background:darkblue ;
+        float: left;
+    }
+    #d a{
+        text-decoration: none;
+        color: white;
+    }
+    #e{
+        height: 100%;
+        width: 15%;
+        background:darkblue;
+        float: left;
+    }
+    #e a{
+        text-decoration: none;
+        color: white;
+    }
+    .menu2{
+        height: 50%;
+        width: 70%;
+        background:skyblue;
+        float: left;
+        font-family: broadway;
+        font-size: small;
+    }
+    .menu3{
+        height: 80%;
+        width: 30%;
+        background:skyblue;
+        float: left;
+    }
+    .a{
+        height: 70%;
+        width: 33%;
+        background:skyblue;
+        float: left;
+    }
+    .b{height: 70%;
+        width: 33%;
+        background:skyblue;
+        float: left; }
+        .c{
+            height: 70%;
+        width: 34%;
+        background:skyblue;
+        float: left;
+        }
+#p{height: 100%;
+    width:6.666%;
+    background:darkblue;
+    float: left; }
+
